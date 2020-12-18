@@ -5,8 +5,8 @@
     <meta charset="utf-8" />
     <title>Flattern - Flat and trendy bootstrap site template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="Description" content="ayam potong">
+    <meta name="author" content="adi jaya" />
 
     <!-- css -->
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700|Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -28,43 +28,17 @@
     <link rel="apple-touch-icon-precomposed" href="<?= base_url() ?>/assets/ico/apple-touch-icon-57-precomposed.png" />
     <link rel="shortcut icon" href="<?= base_url() ?>/assets/ico/favicon.png" />
 
-    <!-- =======================================================
-    Theme Name: Flattern
-    Theme URL: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-  ======================================================= -->
 </head>
 
 <body>
     <div id="wrapper">
-        <!-- toggle top area -->
-        <div class="hidden-top">
-            <div class="hidden-top-inner container">
-                <div class="row">
-                    <div class="span12">
-                        <ul>
-                            <li>
-                                <strong>We are available for any custom works this month</strong>
-                            </li>
-                            <li>Main office: Springville center X264, Park Ave S.01</li>
-                            <li>
-                                Call us <i class="icon-phone"></i> (123) 456-7890 - (123)
-                                555-7891
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end toggle top area -->
         <!-- start header -->
         <header>
             <div class="container">
                 <div class="row" style="margin-bottom: 0px;">
                     <div class="span4">
                         <div class="logo">
-                            <a href="index.html"><img src="<?= base_url() ?>/assets/gambar/Adi jaya logo PNG.png" alt="" class="logo" width="125" style="margin-bottom: -25px;" /></a>
+                            <a href="<?= base_url() ?>"><img src="<?= base_url() ?>/assets/gambar/Adi jaya logo PNG.png" alt="" class="logo" width="125" style="margin-bottom: -25px;" /></a>
                             <!-- <h1>Flat and trendy bootstrap template</h1> -->
                         </div>
                     </div>
@@ -80,10 +54,10 @@
                                             <a href="<?= base_url('/Produk') ?>">Produk</a>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Kontak</a>
+                                            <a href="<?= base_url('/Kontak') ?>">Kontak</a>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#">Tentang Kami</a>
+                                            <a href="<?= base_url('/Tentang') ?>">Tentang Kami</a>
                                         </li>
                                     </ul>
                                 </nav>
@@ -188,9 +162,7 @@
         </footer>
     </div>
     <a href="#" class="scrollup"><i class="icon-chevron-up icon-square icon-32 active"></i></a>
-    <!-- javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+
     <script src="<?= base_url() ?>/assets/js/jquery.js"></script>
     <script src="<?= base_url() ?>/assets/js/jquery.easing.1.3.js"></script>
     <script src="<?= base_url() ?>/assets/js/bootstrap.js"></script>
