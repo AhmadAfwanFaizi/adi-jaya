@@ -53,10 +53,10 @@
                                         <li class="dropdown <?= $uris == 'Produk' ? 'active' : '' ?>">
                                             <a href="<?= base_url('/Produk') ?>">Produk</a>
                                         </li>
-                                        <li class="dropdown">
+                                        <li class="dropdown <?= $uris == 'Kontak' ? 'active' : '' ?>">
                                             <a href="<?= base_url('/Kontak') ?>">Kontak</a>
                                         </li>
-                                        <li class="dropdown">
+                                        <li class="dropdown <?= $uris == 'Tentang' ? 'active' : '' ?>">
                                             <a href="<?= base_url('/Tentang') ?>">Tentang Kami</a>
                                         </li>
                                     </ul>
