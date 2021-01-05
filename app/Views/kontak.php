@@ -3,8 +3,7 @@
 <?= $this->section('content'); ?>
 
 <section id="content" style="padding: 0px">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31736.34611473436!2d106.64771221107178!3d-6.124880270481911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a02695aaccb09%3A0x61dee98159fa3fe5!2sBandar%20Udara%20Internasional%20Soekarno%E2%80%93Hatta!5e0!3m2!1sid!2sid!4v1608277322344!5m2!1sid!2sid" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38846.23526352904!2d106.7440197213562!3d-6.1351990482175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6a1daf1a9f633d%3A0xcc5f91c4bae6bab2!2sSUPPLIER%20AYAM%20ADI%20JAYA!5e0!3m2!1sid!2sid!4v1609813707438!5m2!1sid!2sid" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
     <!-- <div class="container">
         <div class="row">
             <div class="span12">
