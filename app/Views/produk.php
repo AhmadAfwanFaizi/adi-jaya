@@ -21,7 +21,7 @@
                             <li class="item-thumbs span3 design" data-id="id-0" data-type="web">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
                                 <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-01-full.jpg">
-                                    <span class="overlay-img"></span>
+                                    <!-- <span class="overlay-img"></span> -->
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
