@@ -7,6 +7,7 @@ class Kontak extends BaseController
     public function index()
     {
         $data = [
+            'tittle' => 'Kontak',
             'uris' => $this->uris(),
         ];
 

@@ -7,6 +7,7 @@ class Produk extends BaseController
 	public function index()
 	{
 		$data = [
+			'tittle' => 'Produk',
 			'uris' => $this->uris(),
 		];
 

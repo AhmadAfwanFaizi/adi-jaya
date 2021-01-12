@@ -7,6 +7,7 @@ class Home extends BaseController
 	public function index()
 	{
 		$data = [
+			'tittle' => '',
 			'uris' => $this->uris(),
 		];
 
