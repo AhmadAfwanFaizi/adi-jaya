@@ -79,7 +79,7 @@
                         <div class="widget">
                             <h5 class="widgetheading">Tentang Kami</h5>
                             <p>
-                                ADI JAYA adalah perusahaan lokal yang bergerak dibidang distribusi daging ayam
+                                SUPPLIER AYAM ADI JAYA adalah perusahaan lokal yang bergerak dibidang distribusi daging ayam
                                 broiler. Kami selalu berusaha memberikan produk
                                 ayam broiler yang berkualitas & higenis sehingga aman untuk dikonsumsi.
                             </p>
@@ -89,16 +89,16 @@
                     <div class="span4">
                         <div class="widget">
                             <h5 class="widgetheading">Kontak Kami</h5>
-                            <address>
-                                <strong>Adi Jaya</strong><br />
-                                Jl. Insinyur soetami, Kronjo<br />
-                                Tangerang, Indonesia
-                            </address>
                             <p>
-                                <i class="icon-phone"></i> 021 - 555 - 96
+                                <i class="icon-phone"></i> 082-216635553
                                 <br />
                                 <i class="icon-envelope-alt"></i> email@domainname.com
                             </p>
+                            <address>
+                                <strong>Suplier Ayam Adi Jaya</strong><br />
+                                Jl. Pedongkelan Raya No.10, RT.5, RT.5/RW.10, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11720
+                                0821-2201-8600
+                            </address>
                         </div>
                     </div>
 
@@ -106,11 +106,10 @@
                         <div class="widget">
                             <h5 class="widgetheading">Menu</h5>
                             <ul class="link-list">
-                                <li><a href="#">Press release</a></li>
-                                <li><a href="#">Terms and conditions</a></li>
-                                <li><a href="#">Privacy policy</a></li>
-                                <li><a href="#">Career center</a></li>
-                                <li><a href="#">Flattern forum</a></li>
+                                <li><a href="<?= base_url('') ?>">Home</a></li>
+                                <li><a href="<?= base_url('Produk') ?>">Produk</a></li>
+                                <li><a href="<?= base_url('Kontak') ?>">Kontak</a></li>
+                                <li><a href="<?= base_url('Tentang') ?>">Tentang Kami</a></li>
                             </ul>
                         </div>
                     </div>

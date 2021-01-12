@@ -66,7 +66,7 @@
         <div class="big-cta">
           <div class="cta-text" style="float: none; text-align: center;">
             <h3>
-              <b>Keunggulan Ayam Kami</b>
+              <b>Keunggulan</b> Ayam Kami
             </h3>
           </div>
         </div>
@@ -148,7 +148,7 @@
     <!-- Portfolio Projects -->
     <div class="row" style="margin-bottom: 0px;">
       <div class="span12">
-        <h4 class="heading" style="text-align: center;">Produk <strong>Ayam</strong> Kami</h4>
+        <h4 class="heading" style="text-align: center;"><strong>Produk</strong> Ayam Kami</h4>
         <div class="row" style="margin-top: 70px;">
           <section id="projects">
             <ul id="thumbs" class="portfolio">

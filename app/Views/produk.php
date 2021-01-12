@@ -6,12 +6,12 @@
     <div class="container">
         <div class="row">
             <div class="span12">
-                <ul class="portfolio-categ filter">
+                <!-- <ul class="portfolio-categ filter">
                     <li class="all active"><a href="#">All</a></li>
                     <li class="web"><a href="#" title="">Web design</a></li>
                     <li class="icon"><a href="#" title="">Icons</a></li>
                     <li class="graphic"><a href="#" title="">Graphic design</a></li>
-                </ul>
+                </ul> -->
                 <div class="clearfix">
                 </div>
                 <div class="row">
@@ -20,88 +20,88 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 design" data-id="id-0" data-type="web">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-01-full.jpg">
-                                    <!-- <span class="overlay-img"></span> -->
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ayam Utuh" href="assets/gambar/_MG_8440.png">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-01.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8440.png" alt="">
                             </li>
                             <!-- End Item Project -->
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 design" data-id="id-1" data-type="icon">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-02-full.jpg">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Dada Ayam" href="assets/gambar/_MG_8476.png">
                                     <span class="overlay-img"></span>
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-02.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8476.png" alt="">
                             </li>
                             <!-- End Item Project -->
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 photography" data-id="id-2" data-type="graphic">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-03-full.jpg">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Sayap Ayam" href="assets/gambar/_MG_8513.png">
                                     <span class="overlay-img"></span>
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-03.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8513.png" alt="">
                             </li>
                             <!-- End Item Project -->
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 design" data-id="id-0" data-type="web">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-04-full.jpg">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Paha Ayam" href="assets/gambar/_MG_8518.png">
                                     <span class="overlay-img"></span>
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-04.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8518.png" alt="">
                             </li>
                             <!-- End Item Project -->
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 photography" data-id="id-4" data-type="web">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-05-full.jpg">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Tulang Ayam" href="assets/gambar/_MG_8609.png">
                                     <span class="overlay-img"></span>
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-05.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8609.png" alt="">
                             </li>
                             <!-- End Item Project -->
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 photography" data-id="id-5" data-type="icon">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-06-full.jpg">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Kulit Ayam" href="assets/gambar/_MG_8636.png">
                                     <span class="overlay-img"></span>
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-06.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8636.png" alt="">
                             </li>
                             <!-- End Item Project -->
                             <li class="item-thumbs span3 design" data-id="id-0" data-type="web">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-07-full.jpg">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Gatau Dah Ini Apaan" href="assets/gambar/_MG_8654.png">
                                     <span class="overlay-img"></span>
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-07.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8654.png" alt="">
                             </li>
                             <!-- End Item Project -->
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 design" data-id="id-0" data-type="graphic">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/works/full/image-08-full.jpg">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ceker Ayam" href="assets/gambar/_MG_8469.png">
                                     <span class="overlay-img"></span>
-                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                    <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="assets/img/works/thumbs/image-08.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="assets/gambar/_MG_8469.png" alt="">
                             </li>
                             <!-- End Item Project -->
                         </ul>
