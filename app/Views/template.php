@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <title>Flattern - Flat and trendy bootstrap site template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="Description" content="ayam potong">
+    <meta name="Description" content="supplier ayam potong">
     <meta name="author" content="adi jaya" />
 
     <!-- css -->
@@ -20,7 +20,7 @@
     <!-- Theme skin -->
     <link id="t-colors" href="<?= base_url() ?>/assets/skins/default.css" rel="stylesheet" />
     <!-- boxed bg -->
-    <link id="bodybg" href="<?= base_url() ?>/assets/bodybg/bg1.css" rel="stylesheet" type="text/css" />
+    <!-- <link id="bodybg" href="<?= base_url() ?>/assets/bodybg/bg1.css" rel="stylesheet" type="text/css" /> -->
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?= base_url() ?>/assets/ico/apple-touch-icon-144-precomposed.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?= base_url() ?>/assets/ico/apple-touch-icon-114-precomposed.png" />
