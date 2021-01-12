@@ -38,7 +38,7 @@
                 <div class="row" style="margin-bottom: 0px;">
                     <div class="span4">
                         <div class="logo">
-                            <a href="<?= base_url() ?>"><img src="<?= base_url() ?>/assets/gambar/Adi jaya logo PNG.png" alt="" class="logo" width="125" style="margin-bottom: -25px;" /></a>
+                            <a href="<?= base_url() ?>"><img src="<?= base_url() ?>/assets/img/sampel/Adi jaya logo PNG.png" alt="" class="logo" width="125" style="margin-bottom: -25px;" /></a>
                             <!-- <h1>Flat and trendy bootstrap template</h1> -->
                         </div>
                     </div>

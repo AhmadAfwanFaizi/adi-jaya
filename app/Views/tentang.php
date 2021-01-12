@@ -21,7 +21,7 @@
                 <div class="flexslider">
                     <ul class="slides">
                         <li>
-                            <img src="<?= base_url() ?>/assets/gambar/Adi jaya logo.jpg" alt="" />
+                            <img src="<?= base_url() ?>/assets/img/sampel/Adi jaya logo.jpg" alt="" />
                         </li>
                         <!--<li>
                             <img src="<?= base_url() ?>/assets/img/works/full/image-02-full.jpg" alt="" />
