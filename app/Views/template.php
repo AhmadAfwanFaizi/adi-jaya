@@ -5,8 +5,19 @@
     <meta charset="utf-8" />
     <title><?= $tittle == "" ? $tittle : $tittle . ' - ' ?> Adi Jaya</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="Description" content="supplier ayam potong">
+
+    <!-- meta -->
+    <meta name="Description" content="supplier ayam potong adi jaya">
     <meta name="author" content="adi jaya" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="https://www.supplierayamadijaya.com/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="product" />
+    <meta property="og:title" content="supplier ayam potong adi jaya" />
+    <meta property="og:description" content="supplier ayam potong daerah tangerang adi jaya" />
+    <meta property="og:url" content="https://www.supplierayamadijaya.com/" />
+    <meta property="og:site_name" content="Supplier Ayam Adi Jaya" />
+    <!-- /meta -->
 
     <!-- css -->
     <link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700|Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -31,6 +42,11 @@
 </head>
 
 <body>
+    <div style="position:fixed;left:20px;bottom:20px;z-index:10;width:50px;height:auto;">
+        <a href="https://wa.me/6282216635553">
+            <img src="<?= base_url() ?>/assets/img/icon/wa.png" style="border-radius: 50%;">
+        </a>
+    </div>
     <div id="wrapper">
         <!-- start header -->
         <header>

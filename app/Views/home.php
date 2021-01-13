@@ -10,14 +10,12 @@
         <div class="sl-slide-inner">
           <div class="bg-img bg-img-1">
           </div>
-          <h2><strong>Premium</strong> ayam</h2>
+          <h2><strong>Daging</strong> Premium</h2>
           <blockquote>
             <p>
-              Ayam peliharaan adalah unggas yang biasa dipelihara orang untuk dimanfaatkan untuk keperluan hidup
-              pemeliharanya. Ayam peliharaan merupakan keturunan langsung dari salah satu subspesies ayam hutan yang
-              dikenal sebagai ayam hutan merah atau ayam bangkiwa.
+              Ddaging ayam yang kami pilih hanya dari ayam yang berkualitas
             </p>
-            <cite>Wikipedia</cite>
+            <!-- <cite>ayam</cite> -->
           </blockquote>
         </div>
       </div>
@@ -25,12 +23,12 @@
         <div class="sl-slide-inner">
           <div class="bg-img bg-img-2">
           </div>
-          <h2><strong>Ayam</strong> ayam</h2>
+          <h2><strong>Banyak</strong> Pilihan</h2>
           <blockquote>
             <p>
-              Ayam
+              Beraneka ragam macam pilihan mulai dari kaki hingga kepala ayam
             </p>
-            <cite>ayam</cite>
+            <!-- <cite>ayam</cite> -->
           </blockquote>
         </div>
       </div>
@@ -38,12 +36,12 @@
         <div class="sl-slide-inner">
           <div class="bg-img bg-img-3">
           </div>
-          <h2><strong>Ayam</strong> Ayam</h2>
+          <h2><strong>Diolah</strong> Dengan Baik</h2>
           <blockquote>
             <p>
-              Ayam
+              Daging yang kami sajikan diolah oleh tangan - tangan terampil
             </p>
-            <cite>Ayam</cite>
+            <!-- <cite>Ayam</cite> -->
           </blockquote>
         </div>
       </div>
@@ -66,7 +64,7 @@
         <div class="big-cta">
           <div class="cta-text" style="float: none; text-align: center;">
             <h3>
-              <b>Keunggulan</b> Ayam Kami
+              <strong>Keunggulan</strong> Ayam Kami
             </h3>
           </div>
         </div>
