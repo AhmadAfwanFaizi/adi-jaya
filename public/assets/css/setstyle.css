@@ -1,0 +1,14 @@
+@media (max-width: 767px) {
+  .set-div {
+    margin-bottom: 0px;
+  }
+  .span-logo-set {
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 767px) {
+  .nav-set {
+    margin-top: 15px;
+  }
+}

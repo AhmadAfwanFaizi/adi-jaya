@@ -8,15 +8,15 @@
 
     <!-- meta -->
     <meta name="Description" content="supplier ayam potong adi jaya">
-    <meta name="author" content="adi jaya" />
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="author" content="supplier ayam potong adi jaya" />
+    <!-- <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link rel="canonical" href="https://www.supplierayamadijaya.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="product" />
     <meta property="og:title" content="supplier ayam potong adi jaya" />
     <meta property="og:description" content="supplier ayam potong daerah tangerang adi jaya" />
     <meta property="og:url" content="https://www.supplierayamadijaya.com/" />
-    <meta property="og:site_name" content="Supplier Ayam Adi Jaya" />
+    <meta property="og:site_name" content="Supplier Ayam Adi Jaya" /> -->
     <!-- /meta -->
 
     <!-- css -->
@@ -28,6 +28,7 @@
     <link href="<?= base_url() ?>/assets/css/flexslider.css" rel="stylesheet" />
     <link href="<?= base_url() ?>/assets/css/slitslider.css" rel="stylesheet" />
     <link href="<?= base_url() ?>/assets/css/style.css" rel="stylesheet" />
+    <link href="<?= base_url() ?>/assets/css/setstyle.css" rel="stylesheet" />
     <!-- Theme skin -->
     <link id="t-colors" href="<?= base_url() ?>/assets/skins/default.css" rel="stylesheet" />
     <!-- boxed bg -->
@@ -37,7 +38,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?= base_url() ?>/assets/ico/apple-touch-icon-114-precomposed.png" />
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?= base_url() ?>/assets/ico/apple-touch-icon-72-precomposed.png" />
     <link rel="apple-touch-icon-precomposed" href="<?= base_url() ?>/assets/ico/apple-touch-icon-57-precomposed.png" />
-    <link rel="shortcut icon" href="<?= base_url() ?>/assets/ico/favicon.png" />
+    <link rel="shortcut icon" href="<?= base_url() ?>/assets/ico/Adi-jaya-logo-zoom.png" />
 
 </head>
 
@@ -52,15 +53,16 @@
         <header>
             <div class="container">
                 <div class="row" style="margin-bottom: 0px;">
-                    <div class="span4">
-                        <div class="logo">
-                            <a href="<?= base_url() ?>"><img src="<?= base_url() ?>/assets/img/sampel/Adi jaya logo PNG.png" alt="" class="logo" width="125" style="margin-bottom: -25px;" /></a>
+                    <div class="span4 span-logo-set">
+                        <div class="logo set-div">
+                            <a href="<?= base_url() ?>"><img src="<?= base_url() ?>/assets/img/sampel/Adi-jaya-logo.png" alt="" class="logo" width="125" style="margin-top: 15px;" /></a>
                             <!-- <h1>Flat and trendy bootstrap template</h1> -->
                         </div>
                     </div>
                     <div class="span8">
-                        <div class="navbar navbar-static-top" style="margin-top: 13pxf;">
-                            <div class="navigation" style="margin-top: 16px;">
+                        <div class="navbar navbar-static-top">
+                            <!-- <div class="navigation nav-set" style="margin-top: 16px;"> -->
+                            <div class="navigation nav-set">
                                 <nav>
                                     <ul class="nav topnav">
                                         <li class="dropdown <?= $uris == '' ? 'active' : '' ?>">
