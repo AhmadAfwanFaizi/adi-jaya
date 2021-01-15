@@ -85,7 +85,7 @@
                             <!-- End Item Project -->
                             <li class="item-thumbs span3 design" data-id="id-0" data-type="web">
                                 <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Gatau Dah Ini Apaan" href="assets/img/sampel/_MG_8654.png">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Fillet Paha Ayam" href="assets/img/sampel/_MG_8654.png">
                                     <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb icon-zoom-in"></span>
                                 </a>

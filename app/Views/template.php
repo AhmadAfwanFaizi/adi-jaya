@@ -109,8 +109,6 @@
                             <h5 class="widgetheading">Kontak Kami</h5>
                             <p>
                                 <i class="icon-phone"></i> 082-216635553
-                                <br />
-                                <i class="icon-envelope-alt"></i> email@domainname.com
                             </p>
                             <address>
                                 <strong>Suplier Ayam Adi Jaya</strong><br />
