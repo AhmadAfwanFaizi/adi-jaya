@@ -3,18 +3,18 @@
 
 <head>
     <meta charset="utf-8" />
-    <title><?= $tittle == "" ? $tittle : $tittle . ' - ' ?> Adi Jaya</title>
+    <title><?= $tittle . ' ' ?>Supplier Ayam Adi Jaya</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- meta -->
-    <meta name="Description" content="supplier ayam potong adi jaya">
-    <meta name="author" content="supplier ayam potong adi jaya" />
+    <meta name="Description" content="supplier ayam adi jaya">
+    <meta name="author" content="supplier ayam adi jaya" />
     <!-- <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <link rel="canonical" href="https://www.supplierayamadijaya.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="product" />
-    <meta property="og:title" content="supplier ayam potong adi jaya" />
-    <meta property="og:description" content="supplier ayam potong daerah tangerang adi jaya" />
+    <meta property="og:title" content="supplier ayam adi jaya" />
+    <meta property="og:description" content="supplier ayam daerah tangerang adi jaya" />
     <meta property="og:url" content="https://www.supplierayamadijaya.com/" />
     <meta property="og:site_name" content="Supplier Ayam Adi Jaya" /> -->
     <!-- /meta -->
