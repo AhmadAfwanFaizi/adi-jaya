@@ -34,11 +34,7 @@
     <!-- boxed bg -->
     <!-- <link id="bodybg" href="<?= base_url() ?>/assets/bodybg/bg1.css" rel="stylesheet" type="text/css" /> -->
     <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?= base_url() ?>/assets/ico/apple-touch-icon-144-precomposed.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?= base_url() ?>/assets/ico/apple-touch-icon-114-precomposed.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?= base_url() ?>/assets/ico/apple-touch-icon-72-precomposed.png" />
-    <link rel="apple-touch-icon-precomposed" href="<?= base_url() ?>/assets/ico/apple-touch-icon-57-precomposed.png" />
-    <link rel="shortcut icon" href="<?= base_url() ?>/assets/ico/Adi-jaya-logo-zoom.png" />
+    <link rel="shortcut icon" href="<?= base_url() ?>/assets/ico/adi-jaya.png" />
 
 </head>
 
@@ -55,7 +51,7 @@
                 <div class="row" style="margin-bottom: 0px;">
                     <div class="span4 span-logo-set">
                         <div class="logo set-div">
-                            <a href="<?= base_url() ?>"><img src="<?= base_url() ?>/assets/img/sampel/Adi-jaya-logo.png" alt="" class="logo" width="125" style="margin-top: 15px;" /></a>
+                            <a href="<?= base_url() ?>"><img src="<?= base_url() ?>/assets/img/icon/adi-jaya.png" alt="" class="logo" width="125" style="margin-top: 15px;" /></a>
                             <!-- <h1>Flat and trendy bootstrap template</h1> -->
                         </div>
                     </div>
@@ -138,7 +134,7 @@
                         <div class="span6">
                             <div class="copyright">
                                 <p>
-                                    <span>&copy; Flattern - All right reserved.</span>
+                                    <span>&copy; Adi Jaya - All right reserved.</span>
                                 </p>
                                 <div class="credits">
                                     <!--
@@ -152,25 +148,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="span6">
-                            <ul class="social-network">
-                                <li>
-                                    <a href="#" data-placement="bottom" title="Facebook"><i class="icon-facebook icon-square"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#" data-placement="bottom" title="Twitter"><i class="icon-twitter icon-square"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#" data-placement="bottom" title="Linkedin"><i class="icon-linkedin icon-square"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#" data-placement="bottom" title="Pinterest"><i class="icon-pinterest icon-square"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#" data-placement="bottom" title="Google plus"><i class="icon-google-plus icon-square"></i></a>
-                                </li>
-                            </ul>
-                        </div>
+
                     </div>
                 </div>
             </div>

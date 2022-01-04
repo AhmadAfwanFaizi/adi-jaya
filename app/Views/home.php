@@ -80,7 +80,7 @@
           <div class="span3">
             <div class="box aligncenter">
               <div class="aligncenter icon">
-                <img src="assets/img/sampel/_MG_8440.png" class="rounded mx-auto d-block" alt="...">
+                <img src="<?php base_url() ?>/assets/img/sliders/dada-utuh.png" class="rounded mx-auto d-block" alt="...">
               </div>
               <div class="text">
                 <h6>Daging 100% Organik</h6>
@@ -94,7 +94,7 @@
           <div class="span3">
             <div class="box aligncenter">
               <div class="aligncenter icon">
-                <img src="assets/img/sampel/_MG_8499.png" class="rounded mx-auto d-block" alt="...">
+                <img src="<?php base_url() ?>/assets/img/sliders/paha.png" class="rounded mx-auto d-block" alt="...">
               </div>
               <div class="text">
                 <h6>Proses Hygienic Handling</h6>
@@ -108,7 +108,7 @@
           <div class="span3">
             <div class="box aligncenter">
               <div class="aligncenter icon">
-                <img src="assets/img/sampel/_MG_8518.png" class="rounded mx-auto d-block" alt="...">
+                <img src="<?php base_url() ?>/assets/img/sliders/sayap.png" class="rounded mx-auto d-block" alt="...">
               </div>
               <div class="text">
                 <h6>Fresh & Halal</h6>
@@ -122,7 +122,7 @@
           <div class="span3">
             <div class="box aligncenter">
               <div class="aligncenter icon">
-                <img src="assets/img/sampel/_MG_8654.png" class="rounded mx-auto d-block" alt="...">
+                <img src="<?php base_url() ?>/assets/img/sliders/dada-kulit.png" class="rounded mx-auto d-block" alt="...">
               </div>
               <div class="text">
                 <h6>Trusted Delivery</h6>
@@ -150,50 +150,34 @@
         <div class="row" style="margin-top: 70px;">
           <section id="projects">
             <ul id="thumbs" class="portfolio">
-              <!-- Item Project and Filter Name -->
               <li class="item-thumbs span3 design" data-id="id-0" data-type="web">
-                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ayam Utuh" href="assets/img/sampel/_MG_8445.png">
+                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ayam Utuh" href="assets/img/product/utuh.jpeg">
                   <span class="overlay-img"></span>
                   <span class="overlay-img-thumb icon-zoom-in"></span>
                 </a>
-                <!-- Thumb Image and Description -->
-                <img src="assets/img/sampel/_MG_8445.png" alt="" />
+                <img src="assets/img/product/utuh.jpeg" alt="" />
               </li>
-              <!-- End Item Project -->
-              <!-- Item Project and Filter Name -->
               <li class="item-thumbs span3 design" data-id="id-1" data-type="icon">
-                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Dada Ayam" href="assets/img/sampel/_MG_8476.png">
+                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Dada Ayam" href="assets/img/product/dada.jpeg">
                   <span class="overlay-img"></span>
                   <span class="overlay-img-thumb icon-zoom-in"></span>
                 </a>
-                <!-- Thumb Image and Description -->
-                <img src="assets/img/sampel/_MG_8476.png" alt="" />
+                <img src="assets/img/product/dada.jpeg" alt="" />
               </li>
-              <!-- End Item Project -->
-              <!-- Item Project and Filter Name -->
               <li class="item-thumbs span3 photography" data-id="id-2" data-type="illustrator">
-                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Paha Ayam" href="assets/img/sampel/_MG_8518.png">
+                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Paha Ayam" href="assets/img/product/paha.jpeg">
                   <span class="overlay-img"></span>
                   <span class="overlay-img-thumb icon-zoom-in"></span>
                 </a>
-                <!-- Thumb Image and Description -->
-                <img src="assets/img/sampel/_MG_8518.png" alt="" />
+                <img src="assets/img/product/paha.jpeg" alt="" />
               </li>
-              <!-- End Item Project -->
-              <!-- Item Project and Filter Name -->
               <li class="item-thumbs span3 photography" data-id="id-2" data-type="illustrator">
-                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ceker Ayam" href="assets/img/sampel/_MG_8469.png">
+                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ceker Ayam" href="assets/img/product/sayap.jpeg">
                   <span class="overlay-img"></span>
                   <span class="overlay-img-thumb icon-zoom-in"></span>
                 </a>
-                <!-- Thumb Image and Description -->
-                <img src="assets/img/sampel/_MG_8469.png" alt="" />
+                <img src="assets/img/product/sayap.jpeg" alt="" />
               </li>
-              <!-- End Item Project -->
             </ul>
           </section>
         </div>
